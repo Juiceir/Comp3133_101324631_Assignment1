@@ -1,3 +1,3 @@
-**Sample User for login** \n
-Username: jason \n
+**Sample User for login**
+Username: jason\
 Password: password
